@@ -1,0 +1,49 @@
+@media screen and (max-width 768px) {
+    div h1 p{
+        width: 100%;
+    }
+}
+body{
+    margin: 0 auto;
+}
+
+.cabeçalho{
+    font-family: MISFITS;
+    font-size: 20px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+.carousel p{
+color: black;
+font-size: 16px;
+}
+.carousel h5{
+    color: #1fa1c4;
+    font-size: 30px;
+}
+.resumo{
+    background: url(../img/fundo\ 2.png);
+    background-size: 100%;
+    text-align: center;
+    display: inline-block;
+    padding: 10px 0;   
+}
+.texto-resumo{
+    color: white;
+    margin-left: 26%;
+    margin: 0 auto;
+    width: 50%;
+    position: relative;
+    padding: 5%;
+}
+.texto-resumo h1{
+    font-size: 75px;
+    
+}
+.texto-resumo p{
+    font-size: 27px;
+    
+}
